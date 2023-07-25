@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Messi vs. Ronaldo: A Soccer Legend Showdown</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Messi vs. Ronaldo: A Soccer Legend Showdown</h1>
+  </header>
+  <div class="container">
+    <section id="introduction">
+      <h2>Introduction</h2>
+      <p>Welcome to the Messi vs. Ronaldo narrative visualization. This interactive presentation compares the performance of two soccer legends, 
+        Lionel Messi and Cristiano Ronaldo, from the 2014 to 2020 seasons. Explore their achievements, personal information, and impact.</p>
+    </section>
+    <section id="players">
+      <div class="player">
+        <img src="images/messi.jpg" alt="Lionel Messi" id="messiImage">
+        <h3>Lionel Messi</h3>
+        <ul>
+          <li>Age: 36</li>
+          <li>Height: 1.70m, 5 ft 7 in</li>
+          <li>Position: Forward, Attacking Midfielder</li>
+          <li>Current Team: Inter Miami</li>
+          <li>Nationality: Argentina</li>
+          <!-- Add more personal stats as needed -->
+        </ul>
+      </div>
+      <div class="player">
+        <img src="images/cr7.jpg" alt="Cristiano Ronaldo" id="ronaldoImage">
+        <h3>Cristiano Ronaldo</h3>
+        <ul>
+          <li>Age: 38</li>
+          <li>Height: 1.87m, 6 ft 2 in</li>
+          <li>Position: Forward</li>
+          <li>Current Team: Al Nassr</li>
+          <li>Nationality: Portugal</li>
+          <!-- Add more personal stats as needed -->
+        </ul>
+      </div>
+    </section>
+    <button id="continueBtn">Next →</button>
+  </div>
+  <!-- Add the audio element for sound playback -->
+  <audio id="messiSound">
+    <source src="sounds/ankara_messi.mp3" type="audio/mpeg">
+    <!-- Add more source elements for other audio formats (e.g., ogg, wav) -->
+  </audio>
+  <audio id="ronaldoSound">
+    <source src="sounds/ronaldo_sui.mp3" type="audio/mpeg">
+    <!-- Add more source elements for other audio formats (e.g., ogg, wav) -->
+  </audio>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,687 @@
+team_name,season,total_goals,total_games,total_points,teamID,name,leagueID,country,standing
+Bayern Munich,2014,80,34,79,117,Bayern Munich,Bundesliga,Germany,1
+Wolfsburg,2014,72,34,69,131,Wolfsburg,Bundesliga,Germany,2
+Borussia M.Gladbach,2014,53,34,66,130,Borussia M.Gladbach,Bundesliga,Germany,3
+Bayer Leverkusen,2014,62,34,61,119,Bayer Leverkusen,Bundesliga,Germany,4
+Augsburg,2014,43,34,49,121,Augsburg,Bundesliga,Germany,5
+Schalke 04,2014,42,34,48,124,Schalke 04,Bundesliga,Germany,6
+Borussia Dortmund,2014,47,34,46,129,Borussia Dortmund,Bundesliga,Germany,7
+Hoffenheim,2014,49,34,44,120,Hoffenheim,Bundesliga,Germany,8
+Eintracht Frankfurt,2014,56,34,43,132,Eintracht Frankfurt,Bundesliga,Germany,9
+Werder Bremen,2014,50,34,43,123,Werder Bremen,Bundesliga,Germany,9
+FC Cologne,2014,34,34,40,134,FC Cologne,Bundesliga,Germany,11
+Mainz 05,2014,45,34,40,125,Mainz 05,Bundesliga,Germany,11
+Hannover 96,2014,40,34,37,128,Hannover 96,Bundesliga,Germany,13
+VfB Stuttgart,2014,42,34,36,133,VfB Stuttgart,Bundesliga,Germany,14
+Hamburger SV,2014,25,34,35,118,Hamburger SV,Bundesliga,Germany,15
+Hertha Berlin,2014,36,34,35,122,Hertha Berlin,Bundesliga,Germany,15
+Freiburg,2014,36,34,34,135,Freiburg,Bundesliga,Germany,17
+Paderborn,2014,31,34,31,205,Paderborn,Bundesliga,Germany,18
+Bayern Munich,2015,80,34,88,117,Bayern Munich,Bundesliga,Germany,1
+Borussia Dortmund,2015,82,34,78,129,Borussia Dortmund,Bundesliga,Germany,2
+Bayer Leverkusen,2015,56,34,60,119,Bayer Leverkusen,Bundesliga,Germany,3
+Borussia M.Gladbach,2015,67,34,55,130,Borussia M.Gladbach,Bundesliga,Germany,4
+Schalke 04,2015,51,34,52,124,Schalke 04,Bundesliga,Germany,5
+Hertha Berlin,2015,42,34,50,122,Hertha Berlin,Bundesliga,Germany,6
+Mainz 05,2015,46,34,50,125,Mainz 05,Bundesliga,Germany,6
+Wolfsburg,2015,47,34,45,131,Wolfsburg,Bundesliga,Germany,8
+FC Cologne,2015,38,34,43,134,FC Cologne,Bundesliga,Germany,9
+Hamburger SV,2015,40,34,41,118,Hamburger SV,Bundesliga,Germany,10
+Ingolstadt,2015,33,34,40,126,Ingolstadt,Bundesliga,Germany,11
+Augsburg,2015,42,34,38,121,Augsburg,Bundesliga,Germany,12
+Darmstadt,2015,38,34,38,127,Darmstadt,Bundesliga,Germany,12
+Werder Bremen,2015,50,34,38,123,Werder Bremen,Bundesliga,Germany,12
+Hoffenheim,2015,39,34,37,120,Hoffenheim,Bundesliga,Germany,15
+Eintracht Frankfurt,2015,34,34,36,132,Eintracht Frankfurt,Bundesliga,Germany,16
+VfB Stuttgart,2015,50,34,33,133,VfB Stuttgart,Bundesliga,Germany,17
+Hannover 96,2015,31,34,25,128,Hannover 96,Bundesliga,Germany,18
+Bayern Munich,2016,89,34,82,117,Bayern Munich,Bundesliga,Germany,1
+RasenBallsport Leipzig,2016,66,34,67,136,RasenBallsport Leipzig,Bundesliga,Germany,2
+Borussia Dortmund,2016,72,34,64,129,Borussia Dortmund,Bundesliga,Germany,3
+Hoffenheim,2016,64,34,62,120,Hoffenheim,Bundesliga,Germany,4
+FC Cologne,2016,51,34,49,134,FC Cologne,Bundesliga,Germany,5
+Hertha Berlin,2016,43,34,49,122,Hertha Berlin,Bundesliga,Germany,5
+Freiburg,2016,42,34,48,135,Freiburg,Bundesliga,Germany,7
+Borussia M.Gladbach,2016,45,34,45,130,Borussia M.Gladbach,Bundesliga,Germany,8
+Werder Bremen,2016,61,34,45,123,Werder Bremen,Bundesliga,Germany,8
+Schalke 04,2016,45,34,43,124,Schalke 04,Bundesliga,Germany,10
+Eintracht Frankfurt,2016,36,34,42,132,Eintracht Frankfurt,Bundesliga,Germany,11
+Bayer Leverkusen,2016,53,34,41,119,Bayer Leverkusen,Bundesliga,Germany,12
+Augsburg,2016,35,34,38,121,Augsburg,Bundesliga,Germany,13
+Hamburger SV,2016,33,34,38,118,Hamburger SV,Bundesliga,Germany,13
+Mainz 05,2016,44,34,37,125,Mainz 05,Bundesliga,Germany,15
+Wolfsburg,2016,34,34,37,131,Wolfsburg,Bundesliga,Germany,15
+Ingolstadt,2016,36,34,32,126,Ingolstadt,Bundesliga,Germany,17
+Darmstadt,2016,28,34,25,127,Darmstadt,Bundesliga,Germany,18
+Bayern Munich,2017,92,34,84,117,Bayern Munich,Bundesliga,Germany,1
+Schalke 04,2017,53,34,63,124,Schalke 04,Bundesliga,Germany,2
+Bayer Leverkusen,2017,58,34,55,119,Bayer Leverkusen,Bundesliga,Germany,3
+Borussia Dortmund,2017,64,34,55,129,Borussia Dortmund,Bundesliga,Germany,3
+Hoffenheim,2017,66,34,55,120,Hoffenheim,Bundesliga,Germany,3
+RasenBallsport Leipzig,2017,57,34,53,136,RasenBallsport Leipzig,Bundesliga,Germany,6
+VfB Stuttgart,2017,36,34,51,133,VfB Stuttgart,Bundesliga,Germany,7
+Eintracht Frankfurt,2017,45,34,49,132,Eintracht Frankfurt,Bundesliga,Germany,8
+Borussia M.Gladbach,2017,47,34,47,130,Borussia M.Gladbach,Bundesliga,Germany,9
+Hertha Berlin,2017,43,34,43,122,Hertha Berlin,Bundesliga,Germany,10
+Werder Bremen,2017,37,34,42,123,Werder Bremen,Bundesliga,Germany,11
+Augsburg,2017,43,34,41,121,Augsburg,Bundesliga,Germany,12
+Hannover 96,2017,44,34,39,128,Hannover 96,Bundesliga,Germany,13
+Freiburg,2017,32,34,36,135,Freiburg,Bundesliga,Germany,14
+Mainz 05,2017,38,34,36,125,Mainz 05,Bundesliga,Germany,14
+Wolfsburg,2017,36,34,33,131,Wolfsburg,Bundesliga,Germany,16
+Hamburger SV,2017,29,34,31,118,Hamburger SV,Bundesliga,Germany,17
+FC Cologne,2017,35,34,22,134,FC Cologne,Bundesliga,Germany,18
+Bayern Munich,2018,88,34,78,117,Bayern Munich,Bundesliga,Germany,1
+Borussia Dortmund,2018,81,34,76,129,Borussia Dortmund,Bundesliga,Germany,2
+RasenBallsport Leipzig,2018,63,34,66,136,RasenBallsport Leipzig,Bundesliga,Germany,3
+Bayer Leverkusen,2018,69,34,58,119,Bayer Leverkusen,Bundesliga,Germany,4
+Borussia M.Gladbach,2018,55,34,55,130,Borussia M.Gladbach,Bundesliga,Germany,5
+Wolfsburg,2018,62,34,55,131,Wolfsburg,Bundesliga,Germany,5
+Eintracht Frankfurt,2018,60,34,54,132,Eintracht Frankfurt,Bundesliga,Germany,7
+Werder Bremen,2018,58,34,53,123,Werder Bremen,Bundesliga,Germany,8
+Hoffenheim,2018,70,34,51,120,Hoffenheim,Bundesliga,Germany,9
+Fortuna Duesseldorf,2018,49,34,44,233,Fortuna Duesseldorf,Bundesliga,Germany,10
+Hertha Berlin,2018,49,34,43,122,Hertha Berlin,Bundesliga,Germany,11
+Mainz 05,2018,46,34,43,125,Mainz 05,Bundesliga,Germany,11
+Freiburg,2018,46,34,36,135,Freiburg,Bundesliga,Germany,13
+Schalke 04,2018,37,34,33,124,Schalke 04,Bundesliga,Germany,14
+Augsburg,2018,51,34,32,121,Augsburg,Bundesliga,Germany,15
+VfB Stuttgart,2018,32,34,28,133,VfB Stuttgart,Bundesliga,Germany,16
+Hannover 96,2018,31,34,21,128,Hannover 96,Bundesliga,Germany,17
+Nuernberg,2018,26,34,19,234,Nuernberg,Bundesliga,Germany,18
+Bayern Munich,2019,100,34,82,117,Bayern Munich,Bundesliga,Germany,1
+Borussia Dortmund,2019,84,34,69,129,Borussia Dortmund,Bundesliga,Germany,2
+RasenBallsport Leipzig,2019,81,34,66,136,RasenBallsport Leipzig,Bundesliga,Germany,3
+Borussia M.Gladbach,2019,66,34,65,130,Borussia M.Gladbach,Bundesliga,Germany,4
+Bayer Leverkusen,2019,61,34,63,119,Bayer Leverkusen,Bundesliga,Germany,5
+Hoffenheim,2019,53,34,52,120,Hoffenheim,Bundesliga,Germany,6
+Wolfsburg,2019,48,34,49,131,Wolfsburg,Bundesliga,Germany,7
+Freiburg,2019,48,34,48,135,Freiburg,Bundesliga,Germany,8
+Eintracht Frankfurt,2019,59,34,45,132,Eintracht Frankfurt,Bundesliga,Germany,9
+Hertha Berlin,2019,48,34,41,122,Hertha Berlin,Bundesliga,Germany,10
+Union Berlin,2019,41,34,41,240,Union Berlin,Bundesliga,Germany,10
+Schalke 04,2019,38,34,39,124,Schalke 04,Bundesliga,Germany,12
+Mainz 05,2019,44,34,37,125,Mainz 05,Bundesliga,Germany,13
+Augsburg,2019,45,34,36,121,Augsburg,Bundesliga,Germany,14
+FC Cologne,2019,51,34,36,134,FC Cologne,Bundesliga,Germany,14
+Werder Bremen,2019,42,34,31,123,Werder Bremen,Bundesliga,Germany,16
+Fortuna Duesseldorf,2019,36,34,30,233,Fortuna Duesseldorf,Bundesliga,Germany,17
+Paderborn,2019,37,34,20,205,Paderborn,Bundesliga,Germany,18
+Bayern Munich,2020,99,34,78,117,Bayern Munich,Bundesliga,Germany,1
+RasenBallsport Leipzig,2020,60,34,65,136,RasenBallsport Leipzig,Bundesliga,Germany,2
+Borussia Dortmund,2020,75,34,64,129,Borussia Dortmund,Bundesliga,Germany,3
+Wolfsburg,2020,61,34,61,131,Wolfsburg,Bundesliga,Germany,4
+Eintracht Frankfurt,2020,69,34,60,132,Eintracht Frankfurt,Bundesliga,Germany,5
+Bayer Leverkusen,2020,53,34,52,119,Bayer Leverkusen,Bundesliga,Germany,6
+Union Berlin,2020,50,34,50,240,Union Berlin,Bundesliga,Germany,7
+Borussia M.Gladbach,2020,64,34,49,130,Borussia M.Gladbach,Bundesliga,Germany,8
+Freiburg,2020,52,34,45,135,Freiburg,Bundesliga,Germany,9
+VfB Stuttgart,2020,56,34,45,133,VfB Stuttgart,Bundesliga,Germany,9
+Hoffenheim,2020,52,34,43,120,Hoffenheim,Bundesliga,Germany,11
+Mainz 05,2020,39,34,39,125,Mainz 05,Bundesliga,Germany,12
+Augsburg,2020,36,34,36,121,Augsburg,Bundesliga,Germany,13
+Arminia Bielefeld,2020,26,34,35,262,Arminia Bielefeld,Bundesliga,Germany,14
+Hertha Berlin,2020,41,34,35,122,Hertha Berlin,Bundesliga,Germany,14
+FC Cologne,2020,34,34,33,134,FC Cologne,Bundesliga,Germany,16
+Werder Bremen,2020,36,34,31,123,Werder Bremen,Bundesliga,Germany,17
+Schalke 04,2020,25,34,16,124,Schalke 04,Bundesliga,Germany,18
+Barcelona,2014,110,38,94,148,Barcelona,La Liga,Spain,1
+Real Madrid,2014,118,38,92,150,Real Madrid,La Liga,Spain,2
+Atletico Madrid,2014,67,38,78,143,Atletico Madrid,La Liga,Spain,3
+Valencia,2014,70,38,77,146,Valencia,La Liga,Spain,4
+Sevilla,2014,71,38,76,138,Sevilla,La Liga,Spain,5
+Villarreal,2014,48,38,60,154,Villarreal,La Liga,Spain,6
+Athletic Club,2014,42,38,55,147,Athletic Club,La Liga,Spain,7
+Celta Vigo,2014,47,38,51,152,Celta Vigo,La Liga,Spain,8
+Malaga,2014,42,38,50,137,Malaga,La Liga,Spain,9
+Espanyol,2014,47,38,49,141,Espanyol,La Liga,Spain,10
+Rayo Vallecano,2014,46,38,49,145,Rayo Vallecano,La Liga,Spain,10
+Real Sociedad,2014,44,38,46,140,Real Sociedad,La Liga,Spain,12
+Elche,2014,35,38,41,207,Elche,La Liga,Spain,13
+Getafe,2014,33,38,37,142,Getafe,La Liga,Spain,14
+Levante,2014,34,38,37,151,Levante,La Liga,Spain,14
+Deportivo La Coruna,2014,35,38,35,139,Deportivo La Coruna,La Liga,Spain,16
+Eibar,2014,34,38,35,156,Eibar,La Liga,Spain,16
+Granada,2014,29,38,35,155,Granada,La Liga,Spain,16
+Almeria,2014,35,38,32,208,Almeria,La Liga,Spain,19
+Cordoba,2014,22,38,20,206,Cordoba,La Liga,Spain,20
+Barcelona,2015,112,38,91,148,Barcelona,La Liga,Spain,1
+Real Madrid,2015,110,38,90,150,Real Madrid,La Liga,Spain,2
+Atletico Madrid,2015,63,38,88,143,Atletico Madrid,La Liga,Spain,3
+Villarreal,2015,44,38,64,154,Villarreal,La Liga,Spain,4
+Athletic Club,2015,58,38,62,147,Athletic Club,La Liga,Spain,5
+Celta Vigo,2015,51,38,60,152,Celta Vigo,La Liga,Spain,6
+Sevilla,2015,51,38,52,138,Sevilla,La Liga,Spain,7
+Malaga,2015,38,38,48,137,Malaga,La Liga,Spain,8
+Real Sociedad,2015,45,38,48,140,Real Sociedad,La Liga,Spain,8
+Real Betis,2015,34,38,45,153,Real Betis,La Liga,Spain,10
+Las Palmas,2015,45,38,44,144,Las Palmas,La Liga,Spain,11
+Valencia,2015,46,38,44,146,Valencia,La Liga,Spain,11
+Eibar,2015,49,38,43,156,Eibar,La Liga,Spain,13
+Espanyol,2015,40,38,43,141,Espanyol,La Liga,Spain,13
+Deportivo La Coruna,2015,45,38,42,139,Deportivo La Coruna,La Liga,Spain,15
+Granada,2015,46,38,39,155,Granada,La Liga,Spain,16
+Sporting Gijon,2015,40,38,39,149,Sporting Gijon,La Liga,Spain,16
+Rayo Vallecano,2015,52,38,38,145,Rayo Vallecano,La Liga,Spain,18
+Getafe,2015,37,38,36,142,Getafe,La Liga,Spain,19
+Levante,2015,37,38,32,151,Levante,La Liga,Spain,20
+Real Madrid,2016,106,38,93,150,Real Madrid,La Liga,Spain,1
+Barcelona,2016,116,38,90,148,Barcelona,La Liga,Spain,2
+Atletico Madrid,2016,70,38,78,143,Atletico Madrid,La Liga,Spain,3
+Sevilla,2016,69,38,72,138,Sevilla,La Liga,Spain,4
+Villarreal,2016,56,38,67,154,Villarreal,La Liga,Spain,5
+Real Sociedad,2016,59,38,64,140,Real Sociedad,La Liga,Spain,6
+Athletic Club,2016,53,38,63,147,Athletic Club,La Liga,Spain,7
+Espanyol,2016,49,38,56,141,Espanyol,La Liga,Spain,8
+Alaves,2016,41,38,55,158,Alaves,La Liga,Spain,9
+Eibar,2016,56,38,54,156,Eibar,La Liga,Spain,10
+Malaga,2016,49,38,46,137,Malaga,La Liga,Spain,11
+Valencia,2016,56,38,46,146,Valencia,La Liga,Spain,11
+Celta Vigo,2016,53,38,45,152,Celta Vigo,La Liga,Spain,13
+Las Palmas,2016,53,38,39,144,Las Palmas,La Liga,Spain,14
+Real Betis,2016,41,38,39,153,Real Betis,La Liga,Spain,14
+Deportivo La Coruna,2016,43,38,36,139,Deportivo La Coruna,La Liga,Spain,16
+Leganes,2016,36,38,35,159,Leganes,La Liga,Spain,17
+Sporting Gijon,2016,42,38,31,149,Sporting Gijon,La Liga,Spain,18
+Osasuna,2016,40,38,22,157,Osasuna,La Liga,Spain,19
+Granada,2016,30,38,20,155,Granada,La Liga,Spain,20
+Barcelona,2017,99,38,93,148,Barcelona,La Liga,Spain,1
+Atletico Madrid,2017,58,38,79,143,Atletico Madrid,La Liga,Spain,2
+Real Madrid,2017,94,38,76,150,Real Madrid,La Liga,Spain,3
+Valencia,2017,65,38,73,146,Valencia,La Liga,Spain,4
+Villarreal,2017,57,38,61,154,Villarreal,La Liga,Spain,5
+Real Betis,2017,60,38,60,153,Real Betis,La Liga,Spain,6
+Sevilla,2017,49,38,58,138,Sevilla,La Liga,Spain,7
+Getafe,2017,42,38,55,142,Getafe,La Liga,Spain,8
+Eibar,2017,44,38,51,156,Eibar,La Liga,Spain,9
+Girona,2017,50,38,51,223,Girona,La Liga,Spain,9
+Celta Vigo,2017,59,38,49,152,Celta Vigo,La Liga,Spain,11
+Espanyol,2017,36,38,49,141,Espanyol,La Liga,Spain,11
+Real Sociedad,2017,66,38,49,140,Real Sociedad,La Liga,Spain,11
+Alaves,2017,40,38,47,158,Alaves,La Liga,Spain,14
+Levante,2017,44,38,46,151,Levante,La Liga,Spain,15
+Athletic Club,2017,41,38,43,147,Athletic Club,La Liga,Spain,16
+Leganes,2017,34,38,43,159,Leganes,La Liga,Spain,16
+Deportivo La Coruna,2017,38,38,29,139,Deportivo La Coruna,La Liga,Spain,18
+Las Palmas,2017,24,38,22,144,Las Palmas,La Liga,Spain,19
+Malaga,2017,24,38,20,137,Malaga,La Liga,Spain,20
+Barcelona,2018,90,38,87,148,Barcelona,La Liga,Spain,1
+Atletico Madrid,2018,55,38,76,143,Atletico Madrid,La Liga,Spain,2
+Real Madrid,2018,63,38,68,150,Real Madrid,La Liga,Spain,3
+Valencia,2018,51,38,61,146,Valencia,La Liga,Spain,4
+Getafe,2018,48,38,59,142,Getafe,La Liga,Spain,5
+Sevilla,2018,62,38,59,138,Sevilla,La Liga,Spain,5
+Athletic Club,2018,41,38,53,147,Athletic Club,La Liga,Spain,7
+Espanyol,2018,48,38,53,141,Espanyol,La Liga,Spain,7
+Alaves,2018,39,38,50,158,Alaves,La Liga,Spain,9
+Real Betis,2018,44,38,50,153,Real Betis,La Liga,Spain,9
+Real Sociedad,2018,45,38,50,140,Real Sociedad,La Liga,Spain,9
+Eibar,2018,46,38,47,156,Eibar,La Liga,Spain,12
+Leganes,2018,37,38,45,159,Leganes,La Liga,Spain,13
+Levante,2018,59,38,44,151,Levante,La Liga,Spain,14
+Villarreal,2018,49,38,44,154,Villarreal,La Liga,Spain,14
+Celta Vigo,2018,53,38,41,152,Celta Vigo,La Liga,Spain,16
+Real Valladolid,2018,32,38,41,231,Real Valladolid,La Liga,Spain,16
+Girona,2018,37,38,37,223,Girona,La Liga,Spain,18
+SD Huesca,2018,43,38,33,232,SD Huesca,La Liga,Spain,19
+Rayo Vallecano,2018,41,38,32,145,Rayo Vallecano,La Liga,Spain,20
+Real Madrid,2019,70,38,87,150,Real Madrid,La Liga,Spain,1
+Barcelona,2019,86,38,82,148,Barcelona,La Liga,Spain,2
+Atletico Madrid,2019,51,38,70,143,Atletico Madrid,La Liga,Spain,3
+Sevilla,2019,54,38,70,138,Sevilla,La Liga,Spain,3
+Villarreal,2019,63,38,60,154,Villarreal,La Liga,Spain,5
+Granada,2019,52,38,56,155,Granada,La Liga,Spain,6
+Real Sociedad,2019,56,38,56,140,Real Sociedad,La Liga,Spain,6
+Getafe,2019,43,38,54,142,Getafe,La Liga,Spain,8
+Valencia,2019,46,38,53,146,Valencia,La Liga,Spain,9
+Osasuna,2019,46,38,52,157,Osasuna,La Liga,Spain,10
+Athletic Club,2019,41,38,51,147,Athletic Club,La Liga,Spain,11
+Levante,2019,47,38,49,151,Levante,La Liga,Spain,12
+Eibar,2019,39,38,42,156,Eibar,La Liga,Spain,13
+Real Valladolid,2019,32,38,42,231,Real Valladolid,La Liga,Spain,13
+Real Betis,2019,48,38,41,153,Real Betis,La Liga,Spain,15
+Alaves,2019,34,38,39,158,Alaves,La Liga,Spain,16
+Celta Vigo,2019,37,38,37,152,Celta Vigo,La Liga,Spain,17
+Leganes,2019,30,38,36,159,Leganes,La Liga,Spain,18
+Mallorca,2019,40,38,33,239,Mallorca,La Liga,Spain,19
+Espanyol,2019,27,38,25,141,Espanyol,La Liga,Spain,20
+Atletico Madrid,2020,67,38,86,143,Atletico Madrid,La Liga,Spain,1
+Real Madrid,2020,67,38,84,150,Real Madrid,La Liga,Spain,2
+Barcelona,2020,85,38,79,148,Barcelona,La Liga,Spain,3
+Sevilla,2020,53,38,77,138,Sevilla,La Liga,Spain,4
+Real Sociedad,2020,59,38,62,140,Real Sociedad,La Liga,Spain,5
+Real Betis,2020,50,38,61,153,Real Betis,La Liga,Spain,6
+Villarreal,2020,60,38,58,154,Villarreal,La Liga,Spain,7
+Celta Vigo,2020,55,38,53,152,Celta Vigo,La Liga,Spain,8
+Athletic Club,2020,46,38,46,147,Athletic Club,La Liga,Spain,9
+Granada,2020,47,38,46,155,Granada,La Liga,Spain,9
+Cadiz,2020,36,38,44,261,Cadiz,La Liga,Spain,11
+Osasuna,2020,37,38,44,157,Osasuna,La Liga,Spain,11
+Valencia,2020,50,38,43,146,Valencia,La Liga,Spain,13
+Levante,2020,46,38,41,151,Levante,La Liga,Spain,14
+Alaves,2020,36,38,38,158,Alaves,La Liga,Spain,15
+Getafe,2020,28,38,38,142,Getafe,La Liga,Spain,15
+Elche,2020,34,38,36,207,Elche,La Liga,Spain,17
+SD Huesca,2020,34,38,34,232,SD Huesca,La Liga,Spain,18
+Real Valladolid,2020,34,38,31,231,Real Valladolid,La Liga,Spain,19
+Eibar,2020,29,38,30,156,Eibar,La Liga,Spain,20
+Paris Saint Germain,2014,83,38,83,161,Paris Saint Germain,Ligue 1,France,1
+Lyon,2014,72,38,75,178,Lyon,Ligue 1,France,2
+Monaco,2014,51,38,71,171,Monaco,Ligue 1,France,3
+Marseille,2014,76,38,69,164,Marseille,Ligue 1,France,4
+Saint-Etienne,2014,51,38,69,175,Saint-Etienne,Ligue 1,France,4
+Bordeaux,2014,47,38,63,176,Bordeaux,Ligue 1,France,6
+Lille,2014,43,38,56,160,Lille,Ligue 1,France,7
+Montpellier,2014,46,38,56,166,Montpellier,Ligue 1,France,7
+Rennes,2014,35,38,50,163,Rennes,Ligue 1,France,9
+Guingamp,2014,41,38,49,169,Guingamp,Ligue 1,France,10
+Nice,2014,44,38,48,170,Nice,Ligue 1,France,11
+SC Bastia,2014,37,38,47,162,SC Bastia,Ligue 1,France,12
+Caen,2014,54,38,46,165,Caen,Ligue 1,France,13
+Nantes,2014,29,38,45,168,Nantes,Ligue 1,France,14
+Reims,2014,47,38,44,177,Reims,Ligue 1,France,15
+Lorient,2014,44,38,43,179,Lorient,Ligue 1,France,16
+Toulouse,2014,43,38,42,174,Toulouse,Ligue 1,France,17
+Evian Thonon Gaillard,2014,41,38,37,209,Evian Thonon Gaillard,Ligue 1,France,18
+Metz,2014,31,38,30,180,Metz,Ligue 1,France,19
+Lens,2014,32,38,29,210,Lens,Ligue 1,France,20
+Paris Saint Germain,2015,102,38,96,161,Paris Saint Germain,Ligue 1,France,1
+Lyon,2015,67,38,65,178,Lyon,Ligue 1,France,2
+Monaco,2015,57,38,65,171,Monaco,Ligue 1,France,2
+Nice,2015,58,38,63,170,Nice,Ligue 1,France,4
+Lille,2015,39,38,60,160,Lille,Ligue 1,France,5
+Saint-Etienne,2015,42,38,58,175,Saint-Etienne,Ligue 1,France,6
+Caen,2015,39,38,54,165,Caen,Ligue 1,France,7
+Rennes,2015,52,38,52,163,Rennes,Ligue 1,France,8
+Angers,2015,40,38,50,167,Angers,Ligue 1,France,9
+Bordeaux,2015,50,38,50,176,Bordeaux,Ligue 1,France,9
+SC Bastia,2015,36,38,50,162,SC Bastia,Ligue 1,France,9
+Montpellier,2015,49,38,49,166,Montpellier,Ligue 1,France,12
+Marseille,2015,48,38,48,164,Marseille,Ligue 1,France,13
+Nantes,2015,33,38,48,168,Nantes,Ligue 1,France,13
+Lorient,2015,47,38,46,179,Lorient,Ligue 1,France,15
+Guingamp,2015,47,38,44,169,Guingamp,Ligue 1,France,16
+Toulouse,2015,45,38,40,174,Toulouse,Ligue 1,France,17
+Reims,2015,44,38,39,177,Reims,Ligue 1,France,18
+GFC Ajaccio,2015,37,38,37,173,GFC Ajaccio,Ligue 1,France,19
+Troyes,2015,28,38,18,172,Troyes,Ligue 1,France,20
+Monaco,2016,107,38,95,171,Monaco,Ligue 1,France,1
+Paris Saint Germain,2016,83,38,87,161,Paris Saint Germain,Ligue 1,France,2
+Nice,2016,63,38,78,170,Nice,Ligue 1,France,3
+Lyon,2016,77,37,64,178,Lyon,Ligue 1,France,4
+Marseille,2016,57,38,62,164,Marseille,Ligue 1,France,5
+Bordeaux,2016,53,38,59,176,Bordeaux,Ligue 1,France,6
+Nantes,2016,40,38,51,168,Nantes,Ligue 1,France,7
+Guingamp,2016,46,38,50,169,Guingamp,Ligue 1,France,8
+Rennes,2016,36,38,50,163,Rennes,Ligue 1,France,8
+Saint-Etienne,2016,41,38,50,175,Saint-Etienne,Ligue 1,France,8
+Angers,2016,40,38,46,167,Angers,Ligue 1,France,11
+Lille,2016,40,38,46,160,Lille,Ligue 1,France,11
+Toulouse,2016,37,38,44,174,Toulouse,Ligue 1,France,13
+Metz,2016,39,38,43,180,Metz,Ligue 1,France,14
+Montpellier,2016,48,38,39,166,Montpellier,Ligue 1,France,15
+Caen,2016,36,38,37,165,Caen,Ligue 1,France,16
+Dijon,2016,46,38,37,181,Dijon,Ligue 1,France,16
+Lorient,2016,44,38,36,179,Lorient,Ligue 1,France,18
+Nancy,2016,29,38,35,182,Nancy,Ligue 1,France,19
+SC Bastia,2016,29,37,34,162,SC Bastia,Ligue 1,France,20
+Paris Saint Germain,2017,108,38,93,161,Paris Saint Germain,Ligue 1,France,1
+Monaco,2017,85,38,80,171,Monaco,Ligue 1,France,2
+Lyon,2017,87,38,78,178,Lyon,Ligue 1,France,3
+Marseille,2017,80,38,77,164,Marseille,Ligue 1,France,4
+Rennes,2017,50,38,58,163,Rennes,Ligue 1,France,5
+Bordeaux,2017,53,38,55,176,Bordeaux,Ligue 1,France,6
+Saint-Etienne,2017,47,38,55,175,Saint-Etienne,Ligue 1,France,6
+Nice,2017,53,38,54,170,Nice,Ligue 1,France,8
+Nantes,2017,36,38,52,168,Nantes,Ligue 1,France,9
+Montpellier,2017,36,38,51,166,Montpellier,Ligue 1,France,10
+Dijon,2017,55,38,48,181,Dijon,Ligue 1,France,11
+Guingamp,2017,48,38,47,169,Guingamp,Ligue 1,France,12
+Amiens,2017,37,38,45,224,Amiens,Ligue 1,France,13
+Angers,2017,42,38,41,167,Angers,Ligue 1,France,14
+Caen,2017,27,38,38,165,Caen,Ligue 1,France,15
+Lille,2017,41,38,38,160,Lille,Ligue 1,France,15
+Strasbourg,2017,44,38,38,225,Strasbourg,Ligue 1,France,15
+Toulouse,2017,38,38,37,174,Toulouse,Ligue 1,France,18
+Troyes,2017,32,38,33,172,Troyes,Ligue 1,France,19
+Metz,2017,34,38,26,180,Metz,Ligue 1,France,20
+Paris Saint Germain,2018,105,38,91,161,Paris Saint Germain,Ligue 1,France,1
+Lille,2018,68,38,75,160,Lille,Ligue 1,France,2
+Lyon,2018,70,38,72,178,Lyon,Ligue 1,France,3
+Saint-Etienne,2018,59,38,66,175,Saint-Etienne,Ligue 1,France,4
+Marseille,2018,60,38,61,164,Marseille,Ligue 1,France,5
+Montpellier,2018,53,38,59,166,Montpellier,Ligue 1,France,6
+Nice,2018,30,38,56,170,Nice,Ligue 1,France,7
+Reims,2018,39,38,55,177,Reims,Ligue 1,France,8
+Nimes,2018,57,38,53,235,Nimes,Ligue 1,France,9
+Rennes,2018,55,38,52,163,Rennes,Ligue 1,France,10
+Strasbourg,2018,58,38,49,225,Strasbourg,Ligue 1,France,11
+Nantes,2018,48,38,48,168,Nantes,Ligue 1,France,12
+Angers,2018,44,38,46,167,Angers,Ligue 1,France,13
+Bordeaux,2018,34,38,41,176,Bordeaux,Ligue 1,France,14
+Amiens,2018,31,38,38,224,Amiens,Ligue 1,France,15
+Toulouse,2018,35,38,38,174,Toulouse,Ligue 1,France,15
+Monaco,2018,38,38,36,171,Monaco,Ligue 1,France,17
+Dijon,2018,31,38,34,181,Dijon,Ligue 1,France,18
+Caen,2018,29,38,33,165,Caen,Ligue 1,France,19
+Guingamp,2018,28,38,27,169,Guingamp,Ligue 1,France,20
+Paris Saint Germain,2019,75,27,68,161,Paris Saint Germain,Ligue 1,France,1
+Marseille,2019,41,28,56,164,Marseille,Ligue 1,France,2
+Rennes,2019,38,28,50,163,Rennes,Ligue 1,France,3
+Lille,2019,35,28,49,160,Lille,Ligue 1,France,4
+Nice,2019,41,28,41,170,Nice,Ligue 1,France,5
+Reims,2019,26,28,41,177,Reims,Ligue 1,France,5
+Lyon,2019,42,28,40,178,Lyon,Ligue 1,France,7
+Monaco,2019,44,28,40,171,Monaco,Ligue 1,France,7
+Montpellier,2019,35,28,40,166,Montpellier,Ligue 1,France,7
+Angers,2019,28,28,39,167,Angers,Ligue 1,France,10
+Strasbourg,2019,32,27,38,225,Strasbourg,Ligue 1,France,11
+Bordeaux,2019,40,28,37,176,Bordeaux,Ligue 1,France,12
+Nantes,2019,28,28,37,168,Nantes,Ligue 1,France,12
+Brest,2019,34,28,34,241,Brest,Ligue 1,France,14
+Metz,2019,27,28,34,180,Metz,Ligue 1,France,14
+Dijon,2019,27,28,30,181,Dijon,Ligue 1,France,16
+Saint-Etienne,2019,29,28,30,175,Saint-Etienne,Ligue 1,France,16
+Nimes,2019,29,28,27,235,Nimes,Ligue 1,France,18
+Amiens,2019,31,28,23,224,Amiens,Ligue 1,France,19
+Toulouse,2019,22,28,13,174,Toulouse,Ligue 1,France,20
+Lille,2020,64,38,83,160,Lille,Ligue 1,France,1
+Paris Saint Germain,2020,86,38,82,161,Paris Saint Germain,Ligue 1,France,2
+Monaco,2020,76,38,78,171,Monaco,Ligue 1,France,3
+Lyon,2020,81,38,76,178,Lyon,Ligue 1,France,4
+Marseille,2020,54,38,60,164,Marseille,Ligue 1,France,5
+Rennes,2020,52,38,58,163,Rennes,Ligue 1,France,6
+Lens,2020,55,38,57,210,Lens,Ligue 1,France,7
+Montpellier,2020,60,38,54,166,Montpellier,Ligue 1,France,8
+Nice,2020,50,38,52,170,Nice,Ligue 1,France,9
+Metz,2020,44,38,47,180,Metz,Ligue 1,France,10
+Saint-Etienne,2020,42,38,46,175,Saint-Etienne,Ligue 1,France,11
+Bordeaux,2020,42,38,45,176,Bordeaux,Ligue 1,France,12
+Angers,2020,40,38,44,167,Angers,Ligue 1,France,13
+Lorient,2020,50,38,42,179,Lorient,Ligue 1,France,14
+Reims,2020,42,38,42,177,Reims,Ligue 1,France,14
+Strasbourg,2020,49,38,42,225,Strasbourg,Ligue 1,France,14
+Brest,2020,50,38,41,241,Brest,Ligue 1,France,17
+Nantes,2020,47,38,40,168,Nantes,Ligue 1,France,18
+Nimes,2020,40,38,35,235,Nimes,Ligue 1,France,19
+Dijon,2020,25,38,21,181,Dijon,Ligue 1,France,20
+Chelsea,2014,73,38,87,80,Chelsea,Premier League,United Kingdom,1
+Manchester City,2014,83,38,79,88,Manchester City,Premier League,United Kingdom,2
+Arsenal,2014,71,38,75,83,Arsenal,Premier League,United Kingdom,3
+Manchester United,2014,62,38,70,89,Manchester United,Premier League,United Kingdom,4
+Tottenham,2014,58,38,64,82,Tottenham,Premier League,United Kingdom,5
+Liverpool,2014,52,38,62,87,Liverpool,Premier League,United Kingdom,6
+Southampton,2014,54,38,60,74,Southampton,Premier League,United Kingdom,7
+Swansea,2014,46,38,56,84,Swansea,Premier League,United Kingdom,8
+Stoke,2014,48,38,54,85,Stoke,Premier League,United Kingdom,9
+Crystal Palace,2014,47,38,48,78,Crystal Palace,Premier League,United Kingdom,10
+Everton,2014,48,38,47,72,Everton,Premier League,United Kingdom,11
+West Ham,2014,44,38,47,81,West Ham,Premier League,United Kingdom,11
+West Bromwich Albion,2014,38,38,44,76,West Bromwich Albion,Premier League,United Kingdom,13
+Leicester,2014,46,38,41,75,Leicester,Premier League,United Kingdom,14
+Newcastle United,2014,40,38,39,86,Newcastle United,Premier League,United Kingdom,15
+Aston Villa,2014,31,38,38,71,Aston Villa,Premier League,United Kingdom,16
+Sunderland,2014,31,38,38,77,Sunderland,Premier League,United Kingdom,16
+Hull,2014,33,38,35,91,Hull,Premier League,United Kingdom,18
+Burnley,2014,28,38,33,92,Burnley,Premier League,United Kingdom,19
+Queens Park Rangers,2014,42,38,30,202,Queens Park Rangers,Premier League,United Kingdom,20
+Leicester,2015,68,38,81,75,Leicester,Premier League,United Kingdom,1
+Arsenal,2015,65,38,71,83,Arsenal,Premier League,United Kingdom,2
+Tottenham,2015,69,38,70,82,Tottenham,Premier League,United Kingdom,3
+Manchester City,2015,71,38,66,88,Manchester City,Premier League,United Kingdom,4
+Manchester United,2015,49,38,66,89,Manchester United,Premier League,United Kingdom,4
+Southampton,2015,59,38,63,74,Southampton,Premier League,United Kingdom,6
+West Ham,2015,65,38,62,81,West Ham,Premier League,United Kingdom,7
+Liverpool,2015,63,38,60,87,Liverpool,Premier League,United Kingdom,8
+Stoke,2015,41,38,51,85,Stoke,Premier League,United Kingdom,9
+Chelsea,2015,59,38,50,80,Chelsea,Premier League,United Kingdom,10
+Everton,2015,59,38,47,72,Everton,Premier League,United Kingdom,11
+Swansea,2015,42,38,47,84,Swansea,Premier League,United Kingdom,11
+Watford,2015,40,38,45,90,Watford,Premier League,United Kingdom,13
+West Bromwich Albion,2015,34,38,43,76,West Bromwich Albion,Premier League,United Kingdom,14
+Bournemouth,2015,45,38,42,73,Bournemouth,Premier League,United Kingdom,15
+Crystal Palace,2015,39,38,42,78,Crystal Palace,Premier League,United Kingdom,15
+Sunderland,2015,48,38,39,77,Sunderland,Premier League,United Kingdom,17
+Newcastle United,2015,44,38,37,86,Newcastle United,Premier League,United Kingdom,18
+Norwich,2015,39,38,34,79,Norwich,Premier League,United Kingdom,19
+Aston Villa,2015,27,38,17,71,Aston Villa,Premier League,United Kingdom,20
+Chelsea,2016,85,38,93,80,Chelsea,Premier League,United Kingdom,1
+Tottenham,2016,86,38,86,82,Tottenham,Premier League,United Kingdom,2
+Manchester City,2016,80,38,78,88,Manchester City,Premier League,United Kingdom,3
+Liverpool,2016,78,38,76,87,Liverpool,Premier League,United Kingdom,4
+Arsenal,2016,77,38,75,83,Arsenal,Premier League,United Kingdom,5
+Manchester United,2016,54,38,69,89,Manchester United,Premier League,United Kingdom,6
+Everton,2016,62,38,61,72,Everton,Premier League,United Kingdom,7
+Bournemouth,2016,55,38,46,73,Bournemouth,Premier League,United Kingdom,8
+Southampton,2016,41,38,46,74,Southampton,Premier League,United Kingdom,8
+West Bromwich Albion,2016,43,38,45,76,West Bromwich Albion,Premier League,United Kingdom,10
+West Ham,2016,47,38,45,81,West Ham,Premier League,United Kingdom,10
+Leicester,2016,48,38,44,75,Leicester,Premier League,United Kingdom,12
+Stoke,2016,41,38,44,85,Stoke,Premier League,United Kingdom,12
+Crystal Palace,2016,50,38,41,78,Crystal Palace,Premier League,United Kingdom,14
+Swansea,2016,45,38,41,84,Swansea,Premier League,United Kingdom,14
+Burnley,2016,39,38,40,92,Burnley,Premier League,United Kingdom,16
+Watford,2016,40,38,40,90,Watford,Premier League,United Kingdom,16
+Hull,2016,37,38,34,91,Hull,Premier League,United Kingdom,18
+Middlesbrough,2016,27,38,28,93,Middlesbrough,Premier League,United Kingdom,19
+Sunderland,2016,29,38,24,77,Sunderland,Premier League,United Kingdom,20
+Manchester City,2017,106,38,100,88,Manchester City,Premier League,United Kingdom,1
+Manchester United,2017,68,38,81,89,Manchester United,Premier League,United Kingdom,2
+Tottenham,2017,74,38,77,82,Tottenham,Premier League,United Kingdom,3
+Liverpool,2017,84,38,75,87,Liverpool,Premier League,United Kingdom,4
+Chelsea,2017,62,38,70,80,Chelsea,Premier League,United Kingdom,5
+Arsenal,2017,74,38,63,83,Arsenal,Premier League,United Kingdom,6
+Burnley,2017,36,38,54,92,Burnley,Premier League,United Kingdom,7
+Everton,2017,44,38,49,72,Everton,Premier League,United Kingdom,8
+Leicester,2017,56,38,47,75,Leicester,Premier League,United Kingdom,9
+Bournemouth,2017,45,38,44,73,Bournemouth,Premier League,United Kingdom,10
+Crystal Palace,2017,45,38,44,78,Crystal Palace,Premier League,United Kingdom,10
+Newcastle United,2017,39,38,44,86,Newcastle United,Premier League,United Kingdom,10
+West Ham,2017,48,38,42,81,West Ham,Premier League,United Kingdom,13
+Watford,2017,44,38,41,90,Watford,Premier League,United Kingdom,14
+Brighton,2017,34,38,40,220,Brighton,Premier League,United Kingdom,15
+Huddersfield,2017,28,38,37,219,Huddersfield,Premier League,United Kingdom,16
+Southampton,2017,37,38,36,74,Southampton,Premier League,United Kingdom,17
+Stoke,2017,35,38,33,85,Stoke,Premier League,United Kingdom,18
+Swansea,2017,28,38,33,84,Swansea,Premier League,United Kingdom,18
+West Bromwich Albion,2017,31,38,31,76,West Bromwich Albion,Premier League,United Kingdom,20
+Manchester City,2018,95,38,98,88,Manchester City,Premier League,United Kingdom,1
+Liverpool,2018,89,38,97,87,Liverpool,Premier League,United Kingdom,2
+Chelsea,2018,63,38,72,80,Chelsea,Premier League,United Kingdom,3
+Tottenham,2018,67,38,71,82,Tottenham,Premier League,United Kingdom,4
+Arsenal,2018,73,38,70,83,Arsenal,Premier League,United Kingdom,5
+Manchester United,2018,65,38,66,89,Manchester United,Premier League,United Kingdom,6
+Wolverhampton Wanderers,2018,47,38,57,229,Wolverhampton Wanderers,Premier League,United Kingdom,7
+Everton,2018,54,38,54,72,Everton,Premier League,United Kingdom,8
+Leicester,2018,51,38,52,75,Leicester,Premier League,United Kingdom,9
+West Ham,2018,52,38,52,81,West Ham,Premier League,United Kingdom,9
+Watford,2018,52,38,50,90,Watford,Premier League,United Kingdom,11
+Crystal Palace,2018,51,38,49,78,Crystal Palace,Premier League,United Kingdom,12
+Bournemouth,2018,56,38,45,73,Bournemouth,Premier League,United Kingdom,13
+Newcastle United,2018,42,38,45,86,Newcastle United,Premier League,United Kingdom,13
+Burnley,2018,45,38,40,92,Burnley,Premier League,United Kingdom,15
+Southampton,2018,45,38,39,74,Southampton,Premier League,United Kingdom,16
+Brighton,2018,35,38,36,220,Brighton,Premier League,United Kingdom,17
+Cardiff,2018,34,38,34,227,Cardiff,Premier League,United Kingdom,18
+Fulham,2018,34,38,26,228,Fulham,Premier League,United Kingdom,19
+Huddersfield,2018,22,38,16,219,Huddersfield,Premier League,United Kingdom,20
+Liverpool,2019,85,38,99,87,Liverpool,Premier League,United Kingdom,1
+Manchester City,2019,102,38,81,88,Manchester City,Premier League,United Kingdom,2
+Chelsea,2019,69,38,66,80,Chelsea,Premier League,United Kingdom,3
+Manchester United,2019,66,38,66,89,Manchester United,Premier League,United Kingdom,3
+Leicester,2019,67,38,62,75,Leicester,Premier League,United Kingdom,5
+Tottenham,2019,61,38,59,82,Tottenham,Premier League,United Kingdom,6
+Wolverhampton Wanderers,2019,51,38,59,229,Wolverhampton Wanderers,Premier League,United Kingdom,6
+Arsenal,2019,56,38,56,83,Arsenal,Premier League,United Kingdom,8
+Burnley,2019,43,38,54,92,Burnley,Premier League,United Kingdom,9
+Sheffield United,2019,39,38,54,238,Sheffield United,Premier League,United Kingdom,9
+Southampton,2019,51,38,52,74,Southampton,Premier League,United Kingdom,11
+Everton,2019,44,38,49,72,Everton,Premier League,United Kingdom,12
+Newcastle United,2019,38,38,44,86,Newcastle United,Premier League,United Kingdom,13
+Crystal Palace,2019,31,38,43,78,Crystal Palace,Premier League,United Kingdom,14
+Brighton,2019,39,38,41,220,Brighton,Premier League,United Kingdom,15
+West Ham,2019,49,38,39,81,West Ham,Premier League,United Kingdom,16
+Aston Villa,2019,41,38,35,71,Aston Villa,Premier League,United Kingdom,17
+Bournemouth,2019,40,38,34,73,Bournemouth,Premier League,United Kingdom,18
+Watford,2019,36,38,34,90,Watford,Premier League,United Kingdom,18
+Norwich,2019,26,38,21,79,Norwich,Premier League,United Kingdom,20
+Manchester City,2020,83,38,86,88,Manchester City,Premier League,United Kingdom,1
+Manchester United,2020,73,38,74,89,Manchester United,Premier League,United Kingdom,2
+Liverpool,2020,68,38,69,87,Liverpool,Premier League,United Kingdom,3
+Chelsea,2020,58,38,67,80,Chelsea,Premier League,United Kingdom,4
+Leicester,2020,68,38,66,75,Leicester,Premier League,United Kingdom,5
+West Ham,2020,62,38,65,81,West Ham,Premier League,United Kingdom,6
+Tottenham,2020,68,38,62,82,Tottenham,Premier League,United Kingdom,7
+Arsenal,2020,55,38,61,83,Arsenal,Premier League,United Kingdom,8
+Everton,2020,47,38,59,72,Everton,Premier League,United Kingdom,9
+Leeds,2020,62,38,59,245,Leeds,Premier League,United Kingdom,9
+Aston Villa,2020,55,38,55,71,Aston Villa,Premier League,United Kingdom,11
+Newcastle United,2020,46,38,45,86,Newcastle United,Premier League,United Kingdom,12
+Wolverhampton Wanderers,2020,36,38,45,229,Wolverhampton Wanderers,Premier League,United Kingdom,12
+Crystal Palace,2020,41,38,44,78,Crystal Palace,Premier League,United Kingdom,14
+Southampton,2020,47,38,43,74,Southampton,Premier League,United Kingdom,15
+Brighton,2020,40,38,41,220,Brighton,Premier League,United Kingdom,16
+Burnley,2020,33,38,39,92,Burnley,Premier League,United Kingdom,17
+Fulham,2020,27,38,28,228,Fulham,Premier League,United Kingdom,18
+West Bromwich Albion,2020,35,38,26,76,West Bromwich Albion,Premier League,United Kingdom,19
+Sheffield United,2020,20,38,23,238,Sheffield United,Premier League,United Kingdom,20
+Juventus,2014,72,38,87,98,Juventus,Serie A,Italy,1
+Roma,2014,54,38,70,95,Roma,Serie A,Italy,2
+Lazio,2014,71,38,69,96,Lazio,Serie A,Italy,3
+Fiorentina,2014,61,38,64,110,Fiorentina,Serie A,Italy,4
+Napoli,2014,70,38,63,105,Napoli,Serie A,Italy,5
+Genoa,2014,62,38,59,101,Genoa,Serie A,Italy,6
+Sampdoria,2014,48,38,56,102,Sampdoria,Serie A,Italy,7
+Inter,2014,59,38,55,106,Inter,Serie A,Italy,8
+Torino,2014,48,38,54,113,Torino,Serie A,Italy,9
+AC Milan,2014,56,38,52,111,AC Milan,Serie A,Italy,10
+Palermo,2014,53,38,49,100,Palermo,Serie A,Italy,11
+Sassuolo,2014,49,38,49,104,Sassuolo,Serie A,Italy,11
+Verona,2014,49,38,46,94,Verona,Serie A,Italy,13
+Chievo,2014,28,38,43,109,Chievo,Serie A,Italy,14
+Empoli,2014,46,38,42,108,Empoli,Serie A,Italy,15
+Udinese,2014,43,38,41,99,Udinese,Serie A,Italy,16
+Atalanta,2014,38,38,37,107,Atalanta,Serie A,Italy,17
+Cagliari,2014,48,38,34,116,Cagliari,Serie A,Italy,18
+Parma Calcio 1913,2014,33,38,26,230,Parma Calcio 1913,Serie A,Italy,19
+Cesena,2014,36,38,24,203,Cesena,Serie A,Italy,20
+Juventus,2015,75,38,91,98,Juventus,Serie A,Italy,1
+Napoli,2015,80,38,82,105,Napoli,Serie A,Italy,2
+Roma,2015,83,38,80,95,Roma,Serie A,Italy,3
+Inter,2015,50,38,67,106,Inter,Serie A,Italy,4
+Fiorentina,2015,60,38,64,110,Fiorentina,Serie A,Italy,5
+Sassuolo,2015,49,38,61,104,Sassuolo,Serie A,Italy,6
+AC Milan,2015,49,38,57,111,AC Milan,Serie A,Italy,7
+Lazio,2015,52,38,54,96,Lazio,Serie A,Italy,8
+Chievo,2015,43,38,50,109,Chievo,Serie A,Italy,9
+Empoli,2015,40,38,46,108,Empoli,Serie A,Italy,10
+Genoa,2015,45,38,46,101,Genoa,Serie A,Italy,10
+Atalanta,2015,41,38,45,107,Atalanta,Serie A,Italy,12
+Torino,2015,52,38,45,113,Torino,Serie A,Italy,12
+Bologna,2015,33,38,42,97,Bologna,Serie A,Italy,14
+Sampdoria,2015,48,38,40,102,Sampdoria,Serie A,Italy,15
+Palermo,2015,38,38,39,100,Palermo,Serie A,Italy,16
+Udinese,2015,35,38,39,99,Udinese,Serie A,Italy,16
+Carpi,2015,37,38,38,103,Carpi,Serie A,Italy,18
+Frosinone,2015,35,38,31,112,Frosinone,Serie A,Italy,19
+Verona,2015,34,38,28,94,Verona,Serie A,Italy,20
+Juventus,2016,77,38,91,98,Juventus,Serie A,Italy,1
+Roma,2016,90,38,87,95,Roma,Serie A,Italy,2
+Napoli,2016,94,38,86,105,Napoli,Serie A,Italy,3
+Atalanta,2016,62,38,72,107,Atalanta,Serie A,Italy,4
+Lazio,2016,74,38,70,96,Lazio,Serie A,Italy,5
+AC Milan,2016,57,38,63,111,AC Milan,Serie A,Italy,6
+Inter,2016,72,38,62,106,Inter,Serie A,Italy,7
+Fiorentina,2016,63,38,60,110,Fiorentina,Serie A,Italy,8
+Torino,2016,71,38,53,113,Torino,Serie A,Italy,9
+Sassuolo,2016,60,38,49,104,Sassuolo,Serie A,Italy,10
+Sampdoria,2016,49,38,48,102,Sampdoria,Serie A,Italy,11
+Cagliari,2016,55,38,47,116,Cagliari,Serie A,Italy,12
+Udinese,2016,47,38,45,99,Udinese,Serie A,Italy,13
+Chievo,2016,43,38,43,109,Chievo,Serie A,Italy,14
+Bologna,2016,40,38,41,97,Bologna,Serie A,Italy,15
+Genoa,2016,38,38,36,101,Genoa,Serie A,Italy,16
+Crotone,2016,34,38,34,115,Crotone,Serie A,Italy,17
+Empoli,2016,29,38,32,108,Empoli,Serie A,Italy,18
+Palermo,2016,33,38,26,100,Palermo,Serie A,Italy,19
+Pescara,2016,35,38,15,114,Pescara,Serie A,Italy,20
+Juventus,2017,86,38,95,98,Juventus,Serie A,Italy,1
+Napoli,2017,77,38,91,105,Napoli,Serie A,Italy,2
+Roma,2017,61,38,77,95,Roma,Serie A,Italy,3
+Inter,2017,66,38,72,106,Inter,Serie A,Italy,4
+Lazio,2017,89,38,72,96,Lazio,Serie A,Italy,4
+AC Milan,2017,56,38,64,111,AC Milan,Serie A,Italy,6
+Atalanta,2017,57,38,60,107,Atalanta,Serie A,Italy,7
+Fiorentina,2017,54,38,57,110,Fiorentina,Serie A,Italy,8
+Sampdoria,2017,56,38,54,102,Sampdoria,Serie A,Italy,9
+Torino,2017,54,38,54,113,Torino,Serie A,Italy,9
+Sassuolo,2017,29,38,43,104,Sassuolo,Serie A,Italy,11
+Genoa,2017,33,38,41,101,Genoa,Serie A,Italy,12
+Chievo,2017,36,38,40,109,Chievo,Serie A,Italy,13
+Udinese,2017,48,38,40,99,Udinese,Serie A,Italy,13
+Bologna,2017,40,38,39,97,Bologna,Serie A,Italy,15
+Cagliari,2017,33,38,39,116,Cagliari,Serie A,Italy,15
+SPAL 2013,2017,39,38,38,221,SPAL 2013,Serie A,Italy,17
+Crotone,2017,40,38,35,115,Crotone,Serie A,Italy,18
+Verona,2017,30,38,25,94,Verona,Serie A,Italy,19
+Benevento,2017,33,38,21,222,Benevento,Serie A,Italy,20
+Juventus,2018,70,38,90,98,Juventus,Serie A,Italy,1
+Napoli,2018,74,38,79,105,Napoli,Serie A,Italy,2
+Atalanta,2018,77,38,69,107,Atalanta,Serie A,Italy,3
+Inter,2018,57,38,69,106,Inter,Serie A,Italy,3
+AC Milan,2018,55,38,68,111,AC Milan,Serie A,Italy,5
+Roma,2018,66,38,66,95,Roma,Serie A,Italy,6
+Torino,2018,52,38,63,113,Torino,Serie A,Italy,7
+Lazio,2018,56,38,59,96,Lazio,Serie A,Italy,8
+Sampdoria,2018,60,38,53,102,Sampdoria,Serie A,Italy,9
+Bologna,2018,48,38,44,97,Bologna,Serie A,Italy,10
+Sassuolo,2018,53,38,43,104,Sassuolo,Serie A,Italy,11
+Udinese,2018,39,38,43,99,Udinese,Serie A,Italy,11
+SPAL 2013,2018,44,38,42,221,SPAL 2013,Serie A,Italy,13
+Cagliari,2018,36,38,41,116,Cagliari,Serie A,Italy,14
+Fiorentina,2018,47,38,41,110,Fiorentina,Serie A,Italy,14
+Parma Calcio 1913,2018,41,38,41,230,Parma Calcio 1913,Serie A,Italy,14
+Empoli,2018,51,38,38,108,Empoli,Serie A,Italy,17
+Genoa,2018,39,38,38,101,Genoa,Serie A,Italy,17
+Frosinone,2018,29,38,25,112,Frosinone,Serie A,Italy,19
+Chievo,2018,25,38,20,109,Chievo,Serie A,Italy,20
+Juventus,2019,76,38,83,98,Juventus,Serie A,Italy,1
+Inter,2019,81,38,82,106,Inter,Serie A,Italy,2
+Atalanta,2019,98,38,78,107,Atalanta,Serie A,Italy,3
+Lazio,2019,79,38,78,96,Lazio,Serie A,Italy,3
+Roma,2019,77,38,70,95,Roma,Serie A,Italy,5
+AC Milan,2019,63,38,66,111,AC Milan,Serie A,Italy,6
+Napoli,2019,61,38,62,105,Napoli,Serie A,Italy,7
+Sassuolo,2019,69,38,51,104,Sassuolo,Serie A,Italy,8
+Fiorentina,2019,51,38,49,110,Fiorentina,Serie A,Italy,9
+Parma Calcio 1913,2019,56,38,49,230,Parma Calcio 1913,Serie A,Italy,9
+Verona,2019,47,38,49,94,Verona,Serie A,Italy,9
+Bologna,2019,52,38,47,97,Bologna,Serie A,Italy,12
+Cagliari,2019,52,38,45,116,Cagliari,Serie A,Italy,13
+Udinese,2019,37,38,45,99,Udinese,Serie A,Italy,13
+Sampdoria,2019,48,38,42,102,Sampdoria,Serie A,Italy,15
+Torino,2019,46,38,40,113,Torino,Serie A,Italy,16
+Genoa,2019,47,38,39,101,Genoa,Serie A,Italy,17
+Lecce,2019,52,38,35,243,Lecce,Serie A,Italy,18
+Brescia,2019,35,38,25,242,Brescia,Serie A,Italy,19
+SPAL 2013,2019,27,38,20,221,SPAL 2013,Serie A,Italy,20
+Inter,2020,89,38,91,106,Inter,Serie A,Italy,1
+AC Milan,2020,74,38,79,111,AC Milan,Serie A,Italy,2
+Atalanta,2020,90,38,78,107,Atalanta,Serie A,Italy,3
+Juventus,2020,77,38,78,98,Juventus,Serie A,Italy,3
+Napoli,2020,86,38,77,105,Napoli,Serie A,Italy,5
+Lazio,2020,61,38,68,96,Lazio,Serie A,Italy,6
+Roma,2020,68,38,63,95,Roma,Serie A,Italy,7
+Sassuolo,2020,64,38,62,104,Sassuolo,Serie A,Italy,8
+Sampdoria,2020,52,38,52,102,Sampdoria,Serie A,Italy,9
+Verona,2020,43,38,43,94,Verona,Serie A,Italy,10
+Genoa,2020,47,38,42,101,Genoa,Serie A,Italy,11
+Bologna,2020,51,38,41,97,Bologna,Serie A,Italy,12
+Fiorentina,2020,47,38,40,110,Fiorentina,Serie A,Italy,13
+Udinese,2020,42,38,40,99,Udinese,Serie A,Italy,13
+Spezia,2020,52,38,39,260,Spezia,Serie A,Italy,15
+Cagliari,2020,43,38,37,116,Cagliari,Serie A,Italy,16
+Torino,2020,50,38,37,113,Torino,Serie A,Italy,16
+Benevento,2020,40,38,33,222,Benevento,Serie A,Italy,18
+Crotone,2020,45,38,23,115,Crotone,Serie A,Italy,19
+Parma Calcio 1913,2020,39,38,20,230,Parma Calcio 1913,Serie A,Italy,20
