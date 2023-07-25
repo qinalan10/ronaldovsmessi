@@ -11,7 +11,7 @@ d3.csv('data/page2_data.csv', function (d) {
   };
 }).then(function (data) {
   // Set up chart dimensions
-  const margin = { top: 20, right: 30, bottom: 100, left: 60 };
+  const margin = { top: 40, right: 30, bottom: 100, left: 60 };
   const width = 600 - margin.left - margin.right;
   const height = 400 - margin.top - margin.bottom;
 

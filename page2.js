@@ -5,6 +5,9 @@ const messiAchievements = [
     "Champions League Winner (2015)",
     "FIFA Club World Cup Winner (2015)",
     "UEFA Super Cup Winner (2015)",
+    "Ballon d'Or Winner (2015, 2019)",
+    "Golden Boot Winner (2016, 2017, 2018)",
+
     // Add more achievements for Messi here...
   ];
   
@@ -14,6 +17,7 @@ const messiAchievements = [
     "Champions League Winner (2016, 2017, 2018, 2020)",
     "FIFA Club World Cup Winner (2014, 2016, 2017, 2018)",
     "UEFA Super Cup Winner (2014, 2017)",
+    "Ballon d'Or Winner (2016, 2017)",
     // Add more achievements for Ronaldo here...
   ];
   
