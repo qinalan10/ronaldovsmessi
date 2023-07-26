@@ -1,0 +1,26 @@
+/* Add specific CSS styling for page 4 here */
+/* You can customize the soccer pitch appearance here as well */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.page-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.soccer-pitch-container {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+/* Add other soccer pitch styling if needed */
