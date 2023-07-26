@@ -36,6 +36,26 @@ d3.csv('data/page2_data.csv', function (d) {
     .domain([0, d3.max(data, (d) => d.goals)])
     .range([height, 0]);
 
+  // Create a tooltip container
+  const tooltip = d3.select('body').append('div')
+    .attr('class', 'tooltip')
+    .style('opacity', 0)
+    .style('position', 'absolute') // Set position to absolute for proper positioning
+    .style('pointer-events', 'none');
+
+  // Function to show tooltip
+  function showTooltip(event, d) {
+    tooltip.transition().duration(200).style('opacity', 0.9);
+    tooltip.html(`Player: ${d.player_name}<br>Season: ${d.season}<br>Goals: ${d.goals}`)
+      .style('left', `${event.pageX + 10}px`) // Position tooltip relative to cursor
+      .style('top', `${event.pageY - 10}px`);
+  }
+
+  // Function to hide tooltip
+  function hideTooltip() {
+    tooltip.transition().duration(500).style('opacity', 0);
+  }
+
   // Create and append the bars for Messi's data
   svg.selectAll('.bar-messi')
     .data(data.filter((d) => d.player_name === 'Messi'))
@@ -46,11 +66,21 @@ d3.csv('data/page2_data.csv', function (d) {
     .attr('width', xScale.bandwidth() / 2) // Divide by 2 to separate the bars
     .attr('y', (d) => yScale(0))
     .attr('height', 0)
+    .attr('data-year', (d) => d.season) // Add data-year attribute
     .style('fill', 'skyblue')
     .transition()
     .duration(1000) // Transition duration of 1 second
     .attr('y', (d) => yScale(d.goals))
     .attr('height', (d) => height - yScale(d.goals)); // Final height of the bar
+
+  // Add mouseover and mouseout event listeners for the tooltip for Messi's bars
+  svg.selectAll('.bar-messi')
+    .on('mouseover', function (event, d) { // Updated event signature
+      showTooltip(event,d);
+    })
+    .on('mouseout', function () {
+      hideTooltip();
+    });
 
   // Create and append the bars for Ronaldo's data
   svg.selectAll('.bar-ronaldo')
@@ -62,11 +92,21 @@ d3.csv('data/page2_data.csv', function (d) {
     .attr('width', xScale.bandwidth() / 2) // Divide by 2 to separate the bars
     .attr('y', (d) => yScale(0))
     .attr('height', 0)
+    .attr('data-year', (d) => d.season) 
     .style('fill', 'darkgreen')
     .transition()
     .duration(1000) // Transition duration of 1 second
     .attr('y', (d) => yScale(d.goals))
     .attr('height', (d) => height - yScale(d.goals)); // Final height of the bar
+
+  // Add mouseover and mouseout event listeners for the tooltip for Ronaldo's bars
+  svg.selectAll('.bar-ronaldo')
+    .on('mouseover', function (event, d) { // Updated event signature
+      showTooltip(event,d);
+    })
+    .on('mouseout', function () {
+      hideTooltip();
+    });
 
   // Add X-axis
   svg.append('g')

@@ -72,3 +72,13 @@ button:hover {
   background-color: #0056b3;
 }
 
+.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 5px;
+  font-size: 14px;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  pointer-events: none;
+}
