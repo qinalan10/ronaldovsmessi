@@ -12,8 +12,8 @@ d3.csv('data/page2_data.csv', function (d) {
 }).then(function (data) {
   // Set up chart dimensions
   const margin = { top: 40, right: 30, bottom: 100, left: 60 };
-  const width = 600 - margin.left - margin.right;
-  const height = 400 - margin.top - margin.bottom;
+  const width = 1000 - margin.left - margin.right;
+  const height = 750 - margin.top - margin.bottom;
 
   // Create SVG container for the chart
   const svg = d3
@@ -181,6 +181,114 @@ d3.csv('data/page2_data.csv', function (d) {
     .attr('y', 30)
     .attr('alignment-baseline', 'middle')
     .text('Ronaldo');
+
+
+// Define the coordinates of the annotation text and line
+const annotationX = xScale(data[0].season) + xScale.bandwidth() / 4;
+const annotationY = yScale(data[0].goals) - 30;
+const lineStartX = xScale(data[0].season) + xScale.bandwidth() / 2;
+const lineStartY = yScale(data[0].goals);
+const lineEndX = annotationX + 10; // Adjust line length
+const lineEndY = annotationY;
+
+// Append a group element for the annotation
+const annotation = svg.append('g').attr('class', 'annotation');
+
+// Append the pointing line
+annotation.append('line')
+  .attr('x1', lineStartX)
+  .attr('y1', lineStartY)
+  .attr('x2', lineEndX)
+  .attr('y2', lineEndY)
+  .attr('stroke', 'black')
+  .attr('stroke-width', 2);
+
+// Append the annotation text
+annotation.append('text')
+  .attr('x', annotationX)
+  .attr('y', annotationY)
+  .text("Messi won the Ballon d'Or that year despite scoring fewer goals")
+  .attr('class', 'annotation-text')
+  .attr('text-anchor', 'start'); // Align the text to the left
+
+// Get the bounding box of the annotation text
+const textBBox = annotation.select('.annotation-text').node().getBBox();
+
+// Adjust the box size based on the text width
+const boxPaddingX = 10; // Padding around the text on the x-axis
+const boxWidth = textBBox.width + boxPaddingX * 2;
+const boxHeight = textBBox.height + boxPaddingX;
+
+// Calculate the y-position of the box to center it around the text
+const boxY = annotationY - boxHeight / 2;
+
+// Add the box around the annotation
+annotation.insert('rect', '.annotation-text')
+  .attr('x', annotationX - 5)
+  .attr('y', boxY - 5) // Use the calculated y-position
+  .attr('width', boxWidth)
+  .attr('height', boxHeight)
+  .attr('rx', 5) // Rounded corner radius
+  .attr('ry', 5) // Rounded corner radius
+  .style('fill', 'white')
+  .style('stroke', 'black')
+  .style('stroke-width', 1);
+// Define the coordinates of the new annotation text and lines
+const annotationX2 = (xScale(2016) + xScale(2017)) / 3; // Place the annotation between the 2016 and 2017 bars
+const annotationY2 = annotationY + textBBox.height + 10; // Position the annotation just under the first annotation
+const lineStartX2016 = xScale(2016) + xScale.bandwidth() / 2;
+const lineStartX2017 = xScale(2017) + xScale.bandwidth() / 2;
+const lineStartY2 = annotationY + textBBox.height + 250; // Position the lines just under the first line
+const lineEndY2 = annotationY2 + 10;
+
+// Append the new annotation text
+annotation.append('text')
+  .attr('x', annotationX2)
+  .attr('y', annotationY2)
+  .text("Ronaldo won the Ballon d'Or these years despite scoring fewer goals")
+  .attr('class', 'annotation-text')
+  .attr('text-anchor', 'start'); // Align the text to the left
+
+// Get the bounding box of the new annotation text
+const textBBox2 = annotation.select('.annotation-text:last-of-type').node().getBBox();
+
+// Adjust the box size based on the text width
+const boxPaddingX2 = 10; // Padding around the text on the x-axis
+const boxWidth2 = textBBox2.width + boxPaddingX2 * 2;
+const boxHeight2 = textBBox2.height + boxPaddingX2;
+
+// Calculate the y-position of the box to center it around the text
+const boxY2 = annotationY2 - boxHeight2 / 2;
+
+// Add the box around the new annotation
+annotation.insert('rect', '.annotation-text:last-of-type')
+  .attr('x', annotationX2 - 5)
+  .attr('y', boxY2 - 5) // Use the calculated y-position
+  .attr('width', boxWidth2)
+  .attr('height', boxHeight2)
+  .attr('rx', 5) // Rounded corner radius
+  .attr('ry', 5) // Rounded corner radius
+  .style('fill', 'white')
+  .style('stroke', 'black')
+  .style('stroke-width', 1);
+
+// Append the new pointing lines
+svg.append('line')
+  .attr('x1', lineStartX2016)
+  .attr('y1', lineStartY2)
+  .attr('x2', lineStartX2016)
+  .attr('y2', lineEndY2)
+  .attr('stroke', 'black')
+  .attr('stroke-width', 2);
+
+svg.append('line')
+  .attr('x1', lineStartX2017)
+  .attr('y1', lineStartY2)
+  .attr('x2', lineStartX2017)
+  .attr('y2', lineEndY2)
+  .attr('stroke', 'black')
+  .attr('stroke-width', 2);
+
 }).catch(function (error) {
   console.error('Error loading the data:', error);
 });

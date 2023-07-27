@@ -88,3 +88,14 @@ body {
     }
   }
   
+  .annotation-text {
+    font-size: 14px;
+    fill: #333;
+    text-anchor: start;
+  }
+  
+  /* Add styles for the annotation line */
+  .annotation-line {
+    stroke: #333;
+    stroke-width: 1.5;
+  }
