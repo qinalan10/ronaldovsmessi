@@ -93,7 +93,7 @@ d3.csv('data/page2_data.csv', function (d) {
     .attr('y', (d) => yScale(0))
     .attr('height', 0)
     .attr('data-year', (d) => d.season) 
-    .style('fill', 'darkgreen')
+    .style('fill', 'red')
     .transition()
     .duration(1000) // Transition duration of 1 second
     .attr('y', (d) => yScale(d.goals))
@@ -173,7 +173,7 @@ d3.csv('data/page2_data.csv', function (d) {
     .attr('y', 20)
     .attr('width', 12)
     .attr('height', 12)
-    .style('fill', 'darkgreen');
+    .style('fill', 'red');
 
   legend
     .append('text')
