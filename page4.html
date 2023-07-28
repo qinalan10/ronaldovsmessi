@@ -3,30 +3,51 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Messi vs. Ronaldo: Soccer Shot Map</title>
-  <link rel="stylesheet" href="styles_page2.css">
+  <title>Messi vs. Ronaldo: Shot Visualization</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>Messi vs. Ronaldo: A Soccer Legend Showdown</h1>
+    <h1>Messi vs. Ronaldo: Shot Visualization</h1>
   </header>
-  <div class="container">
-    <section id="page4">
-      <h2>Page 4 Title</h2>
-      <div class="page-container">
-        <!-- Add the visualization content here -->
-        <div id="soccerPitch" class="soccer-pitch-container"></div>
-      </div>
-    </section>
+  <div class="controls">
+    <label for="shotTypeSelect">Select Shot Type:</label>
+    <select id="shotTypeSelect">
+      <option value="all">All</option>
+      <option value="DirectFreekick">Direct Freekick</option>
+      <option value="OpenPlay">Open Play</option>
+      <option value="Penalty">Penalty</option>
+      <option value="SetPiece">Set Piece</option>
+    </select>
+  
+    <label for="playerNameSelect">Select Player Name:</label>
+    <select id="playerNameSelect">
+      <option value="all">All</option>
+      <option value="Messi">Lionel Messi</option>
+      <option value="Ronaldo">Christiano Ronaldo</option>
+      <!-- Add options for player names here -->
+    </select>
+  
+    <label for="seasonSelect">Select Season:</label>
+    <select id="seasonSelect">
+      <option value="all">All</option>
+      <option value="2015">2014</option>
+      <option value="2015">2015</option>
+      <option value="2016">2016</option>
+      <option value="2017">2017</option>
+      <option value="2018">2018</option>
+      <option value="2019">2019</option>
+      <option value="2020">2020</option>
+      <!-- Add options for seasons here -->
+    </select>
+  
+    
+  </div>
+  <div class="legend" id="messiLegend">Messi</div>
+  <div class="legend" id="ronaldoLegend">Ronaldo</div>
+    <div id="pitch"></div>
   </div>
   <script src="https://d3js.org/d3.v6.min.js"></script>
   <script src="page4.js"></script>
-  <script>
-    // Add event listener to the button
-    document.getElementById('continueBtn').addEventListener('click', function() {
-      // Redirect to the next page (page5.html) or any other page you want
-      window.location.href = 'https://qinalan10.github.io/ronaldovsmessi/page5';
-    });
-  </script>
 </body>
 </html>
