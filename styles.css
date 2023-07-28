@@ -99,53 +99,6 @@ button:hover {
   margin-bottom: 0.5rem;
 }
 
-/* Add this CSS to create a container for the filters and pitch */
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: flex-start;
-}
-
-/* Add this CSS to float the filters to the left */
-.controls {
-  flex: 0 0 200px; /* Set a fixed width for the filters */
-}
-
-/* Add this CSS to float the pitch to the right and make it occupy the remaining space */
-#pitch {
-  flex: 1; /* Let the pitch occupy the remaining space */
-}
-
-/* Add this CSS to clear the float and prevent overlapping */
-.container::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/* Add this CSS to create a container for the filters and pitch using CSS grid */
-.container {
-  display: grid;
-  grid-template-columns: 200px 1fr; /* Set the column widths, '1fr' means the remaining space */
-  grid-gap: 1rem; /* Add some gap between the columns */
-  max-width: 1200px; /* Limit the maximum width of the container */
-  margin: 0 auto; /* Center the container */
-  padding: 2rem;
-}
-.legend {
-  width: 150px;
-  padding: 8px;
-  text-align: center;
-  background-color: #fff;
-  border: 1px solid #ccc;
-  position: absolute;
-  z-index: 10; /* Ensure the legends are above the pitch */
-}
-
-#messiLegend {
-  top: 125px;
-  left: 250px;
-}
 
 #ronaldoLegend {
   top: 200px;

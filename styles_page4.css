@@ -1,26 +1,153 @@
-/* Add specific CSS styling for page 4 here */
-/* You can customize the soccer pitch appearance here as well */
 body {
-  font-family: Arial, sans-serif;
+  /* font-family: Arial, sans-serif; */
+  font-family: monospace;
+  font-size: large;
   margin: 0;
   padding: 0;
+  background-color: #f9f9f9;
 }
 
-.page-container {
+header {
+  background-color: #00bfff;
+  color: #333;
+  text-align: center;
+  padding: 1rem;
+}
+
+.container {
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
 }
 
 h2 {
+  color: #333;
+}
+
+#players {
+  display: flex;
+  justify-content: space-between;
+}
+
+.player {
+  flex: 1;
+  max-width: 45%;
+  padding: 1rem;
+  border: 1px solid #ccc;
   text-align: center;
 }
 
-.soccer-pitch-container {
-  position: relative;
-  width: 800px;
-  height: 600px;
-  margin: 0 auto;
+img {
+  width: 100%; /* Set a fixed width of 100% to fill the container */
+  height: auto; /* Allow the height to adjust proportionally */
+  margin-bottom: 1rem;
 }
 
-/* Add other soccer pitch styling if needed */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 5px;
+  font-size: 14px;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  pointer-events: none;
+}
+/* Add this class to center the SVG */
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 1rem;
+}
+
+.controls label {
+  margin-bottom: 0.5rem;
+}
+
+/* Add this CSS to create a container for the filters and pitch */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* Add this CSS to float the filters to the left */
+.controls {
+  flex: 0 0 200px; /* Set a fixed width for the filters */
+}
+
+/* Add this CSS to float the pitch to the right and make it occupy the remaining space */
+#pitch {
+  flex: 1; /* Let the pitch occupy the remaining space */
+}
+
+/* Add this CSS to clear the float and prevent overlapping */
+.container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Add this CSS to create a container for the filters and pitch using CSS grid */
+.container {
+  display: grid;
+  grid-template-columns: 200px 1fr; /* Set the column widths, '1fr' means the remaining space */
+  grid-gap: 1rem; /* Add some gap between the columns */
+  max-width: 1200px; /* Limit the maximum width of the container */
+  margin: 0 auto; /* Center the container */
+  padding: 2rem;
+}
+.legend {
+  width: 150px;
+  padding: 8px;
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  position: absolute;
+  z-index: 10; /* Ensure the legends are above the pitch */
+}
+
+#messiLegend {
+  top: 125px;
+  left: 250px;
+}
+
+#ronaldoLegend {
+  top: 200px;
+  left: 250px;
+}
