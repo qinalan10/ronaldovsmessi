@@ -22,6 +22,9 @@ header {
 
 section {
   margin-bottom: 2rem;
+  margin: center;
+  margin-right:500px;
+  margin-left: 15px;
 }
 
 h2 {
@@ -143,12 +146,12 @@ button:hover {
 }
 
 #messiLegend {
-  top: 125px;
+  top: 320px;
   left: 250px;
 }
 
 #ronaldoLegend {
-  top: 200px;
+  top: 405px;
   left: 250px;
 }
 .messi-circle {
