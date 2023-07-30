@@ -134,14 +134,19 @@ d3.csv('data/ronaldo_messi_shots.csv', function (d) {
         .data(filteredData, d => d.gameID); // Use a unique key function, e.g., gameID
         console.log(filteredData)
       // ENTER selection (for new elements)
+      // ENTER selection (for new elements)
       shots.enter()
-        .append('circle')
-        .attr('r', 3)
-        .attr('opacity', 0.8)
-        .attr('fill', d => (d.player_name === 'Messi') ? 'skyblue' : 'red')
-        .merge(shots) // Combine enter and existing elements
-        .attr('cx', d => d.positionX * fieldWidth)
-        .attr('cy', d => d.positionY * fieldHeight);
+      .append('circle')
+      .attr('r', 3)
+      .attr('opacity', 0.8)
+      .attr('class', d => (d.player_name === 'Messi') ? 'messi-circle' : 'ronaldo-circle')
+      .attr('cx', d => d.positionX * fieldWidth)
+      .attr('cy', d => d.positionY * fieldHeight)
+      .merge(shots) // Combine enter and existing elements
+      .attr('cx', d => d.positionX * fieldWidth)
+      .attr('cy', d => d.positionY * fieldHeight)
+      .attr('class', d => (d.player_name === 'Messi') ? 'messi-circle' : 'ronaldo-circle');
+
         const messiData = filteredData.filter(d => d.player_name === 'Messi');
         const messiShots = messiData.length;
         const messiGoals = messiData.filter(d => d.shotResult === 'Goal').length;

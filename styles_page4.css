@@ -151,3 +151,10 @@ button:hover {
   top: 200px;
   left: 250px;
 }
+.messi-circle {
+  fill: skyblue;
+}
+
+.ronaldo-circle {
+  fill: red;
+}
